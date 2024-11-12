@@ -1,2 +1,33 @@
 # number-carrier-to-email
+
 Python 2.7
+
+# Feature 
+
+<li>Check Carrier Lookup</li>
+<li>Auto Filter Carrier Then They Add @mail to number </li>
+
+# Buy Coffee :
+
+<li>Bitcoin $: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1</li>
+<li>Perfect Money $: U22270614</li>
+<li>Saweria $: https://saweria.co/Shin403</li>
+<li>Trakteer $: https://trakteer.id/shin403</li>
+<li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
+<li>Ko-Fi $: https://ko-fi.com/shincode403</li>
+
+![Untitled227](https://github.com/user-attachments/assets/763b3c75-f4bc-4af7-9071-1ec01b44f22b)
+
+
+# How To Run?
+
+<li>Regsiter Here To GET API ,<a href="http://apilayer.net/">apilayer.net</a></li>
+<li>Paste Api in python source code </li> 
+<li>Create a list.txt file or anything in txt form</li>
+<li>Install Python 2.7 <a href="https://www.python.org"> Download Here</a></li>
+<li>python file.py</li>
+
+# Disclaimer !!!
+
+<p>I have written the disclaimer on the cover of Jenderal92. You can check it <a href="https://github.com/Jenderal92">HERE !!!</a></p>
+
