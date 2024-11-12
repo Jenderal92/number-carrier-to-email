@@ -5,7 +5,7 @@ Python 2.7
 # Feature 
 
 <li>Check Carrier Lookup</li>
-<li>Auto Filter Carrier Then They Add @mail to number </li>
+<li>Auto Add @example. behind the number according to the carrier</li>
 
 # Buy Coffee :
 
