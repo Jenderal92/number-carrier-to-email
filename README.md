@@ -21,7 +21,7 @@ Python 2.7
 
 # How To Run?
 
-<li>Regsiter Here To GET API ,<a href="http://apilayer.net/">apilayer.net</a></li>
+<li>Regsiter Here To GET APIKEY,<a href="http://apilayer.net/">apilayer.net</a></li>
 <li>Paste Api in python source code </li> 
 <li>Create a list.txt file or anything in txt form</li>
 <li>Install Python 2.7 <a href="https://www.python.org"> Download Here</a></li>
