@@ -24,7 +24,7 @@ Python 2.7
 <li>Paste Api in python source code </li> 
 <li>Create a list.txt file or anything in txt form</li>
 <li>Install Python 2.7 <a href="https://www.python.org"> Download Here</a></li>
-<li>python file.py</li>
+<li><code>python file.py</code></li>
 
 # Disclaimer !!!
 
